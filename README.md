@@ -37,6 +37,5 @@ To analyze Superstore sales data using Pivot Tables, Pivot Charts, Slicers and d
 ### Profit Margin Analysis
 ![Profit Margin](pivot_profit_margin.png)
 
-### Interactive Slicers
-![Slicers](slicers_dashboard.png)# Excel-Superstore-Pivot-Analysis
-Pivot Table and Business Insight Analysis on Superstore Dataset using Excel .
+
+
